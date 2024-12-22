@@ -17,7 +17,7 @@ The fencer page for Garde, this page is used by fencers to perform the instructi
 ![image](https://github.com/GardeFencing/.github/blob/main/assets/CoachPage.png)
 The coach page for Garde allows the coach to see all thier students' videos and give them feedback. Once the coaches are done seeing the students' performance, they can also view their progression over time which is detailed through graphs. 
 
-![image](https://github.com/GardeFencing/.github/blob/main/assets/CoachPage.png)
+![image](https://github.com/GardeFencing/.github/blob/main/assets/tournaments.png)
 The tournaments page for Garde allows users to manage and organize tournaments, it allows for participant signups and sharing essential information like location, schedule, registration fees, organizer information, participant profiles, descriptions, rules, and eligibility criteria. It also allows easy access of tournament videos and results.
 
 ## 🖥️ Code
