@@ -21,4 +21,4 @@ The coach page for Garde allows the coach to see all thier students' videos and 
 The tournaments page for Garde allows users to manage and organize tournaments, it allows for participant signups and sharing essential information like location, schedule, registration fees, organizer information, participant profiles, descriptions, rules, and eligibility criteria. It also allows easy access of tournament videos and results.
 
 ## 🖥️ Code
-Currently, Garde is patent pending and the code is private. However, if you are curious about Garde and would like to know more, please contact gardefencing@gmail.com. 
+Currently, Garde is patent pending and the code is private. However, if you are curious about Garde and would like to know more, please contact support@gardeai.com. 
