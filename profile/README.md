@@ -1,4 +1,4 @@
-# 🤺 Garde: AI Fencing Companion built using a bleeding-edge tech
+# 🤺 Garde: AI Fencing Companion built using bleeding-edge tech
 ![image](https://github.com/GardeFencing/.github/blob/main/assets/garde-wide.png)
 
 ## 🚀 About Garde
